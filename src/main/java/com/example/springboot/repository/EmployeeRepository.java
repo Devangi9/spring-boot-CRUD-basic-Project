@@ -6,4 +6,6 @@ import com.example.springboot.model.Employee;
 
 public interface EmployeeRepository extends JpaRepository<Employee, Long>{
 
+	
+	
 }
